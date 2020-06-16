@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">文字转换</string>
+    <string name="menu_name">转换</string>
+    <string name="Unsupported_encoding">不支持的编码</string>
+    <string name="Unable_to_edit">该位置不支持修改，数据已保存剪切板</string>
+</resources>
